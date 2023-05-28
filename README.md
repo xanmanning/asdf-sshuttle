@@ -7,6 +7,10 @@
 
 </div>
 
+# Note
+
+This is for the Python version of sshuttle - a sshuttle Rust plugin may be made available in the future.
+
 # Contents
 
 - [Dependencies](#dependencies)
@@ -16,10 +20,8 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
 - `bash`, `curl`, `tar`: generic POSIX utilities.
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
+- `python3`: runtime for the application.
 
 # Install
 
